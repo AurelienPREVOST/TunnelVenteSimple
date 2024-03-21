@@ -1,6 +1,6 @@
 ## A destination des associations.  
 
-Vous êtes une association souhaitant recolté des dons?  
+Vous êtes une association souhaitant recolter des dons?  
 Sentez vous libre d'utiliser ce template prédéfini permettant de percevoir des dons.  
 
 Le script et le html peuvent être adaptés pour ajouter des bouttons de choix de sommes:  
