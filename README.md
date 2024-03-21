@@ -18,7 +18,7 @@ Si vous n'en avez pas encore, créé vous un compte business sur paypal.
 une fois activé rendez vous dans l'onglet developpeur et recupéré la clé publique à l'adresse suivante :
 https://developer.paypal.com/dashboard/
 
-Interpolez cette clé en params de l'url dans le script html contenu dans le <head> du fichier index.html:
+Interpolez cette clé en params de l'url dans le script html contenu dans la balise head du fichier index.html:
 
 ```
 <script src="https://www.paypal.com/sdk/js?client-id=COPIER_VOTRE_CLE_PUBLIQUE&currency=EUR"></script>
