@@ -1,4 +1,4 @@
-## A destination des associations.  
+## A destination des associations  
 
 Vous êtes une association souhaitant recolter des dons?  
 Sentez vous libre d'utiliser ce template prédéfini permettant de percevoir des dons.  
